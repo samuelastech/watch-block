@@ -6,4 +6,5 @@ but when you open up some video the page body is cleaned up.
 ## To-do
 
 - Add a customized block page;
-- Add a settings HTML page.
+- Add a settings HTML page;
+- Redirect to download video page feat.
