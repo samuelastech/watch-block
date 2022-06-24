@@ -1,5 +1,6 @@
 const path = window.location.pathname
+const domain = window.location.hostname
 
-if(path.includes('watch')){
+if(domain.includes('youtube') && path.includes('watch')){
     document.body.innerHTML = "<p>It's blocked!</p>"
 }
